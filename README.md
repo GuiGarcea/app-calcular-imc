@@ -1,1 +1,2 @@
-# app-calcular-imc
+# App que calcula o IMC
+![app](peso/print.png)
